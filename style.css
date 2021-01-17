@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: PaleGreen;
+}
+
+main {
+   background-color: rgb(206, 255, 206); 
+}
+
+header a {
+    color: white;
+    background-color: palegreen;
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+footer a {
+    color: black;
+    background-color: rgb(206, 255, 206);
+    font-size: 20px;
+    text-decoration: none;
+    border: 3px solid white;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;   
+}
+
+header img {
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    font-size: 50px;
+    background-color: rgb(206, 255, 206);
+}
+
+table, tr, td, th {
+    border: 3px solid white;
+}
+
+table {
+    border-collapse: collapse;
+}
